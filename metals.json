@@ -1,0 +1,48 @@
+ 
+{
+	// Core
+	//"old_copper"   : "ff9800",
+	"copper"   : "c35d12", // Alternate "copper_ore": "2ebf83"
+
+	"silver"   : "96b2ff",
+	"lead"     : "64536d", //d9bbe9 or ac8fbb are lighter versions
+	"zinc"     : "839c94", // Ore a1cfc0 (Green hemimorphite)
+	"steel"    : "464a57", // slightly achromatic
+	"brass"    : "ffbe3a",
+	"electrum" : "ffe86d",
+
+
+	//Radioactive elements
+	"uranium"  : "65bf43", // slightly achromatic
+	"plutonium": "5a5aff", // slightly achromatic
+	"thorium"  : "ff3578", // slightly achromatic
+
+	// Oddments
+	"mercury"  : "ff0000",
+	"coal_coke": "496262",
+
+	// Vanilla bits
+	"coal"     : "4b4b4b",
+	"iron"     : "c2c2c2",
+	"diamond"  : "40c2cf",
+	"emerald"  : "17dd62",
+
+	// Not part of core
+	"aluminum" : "f9b9b9",
+	"tin"      : "6592dd",
+	"cobalt"   : "1d41c4", // shiny
+	"tungsten" : "31374a", // shiny
+	
+	// Gemstones
+	"amethyst" : "a363c5",
+	"peridot"  : "a1f15e",
+	"ruby"     : "c62424",
+	"sapphire" : "483dd4",
+	"topaz"    : "fbc118",
+
+	"osmium"   : "afc0ed",
+	"platinum" : "ffffff",
+	"palladium": "c3a5d2",
+	"iridium"  : "80e0c2",
+	"titanium" : "6c6c6c",
+}
