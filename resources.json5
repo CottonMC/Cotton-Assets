@@ -34,11 +34,11 @@
 	"tungsten" : "31374a", // shiny
 	
 	// Gemstones
-	"amethyst" : "a363c5",
+	"amethyst" : "9a89e1", // secondary/dark: 6a5596
 	"peridot"  : "a1f15e",
-	"ruby"     : "c62424",
-	"sapphire" : "483dd4",
-	"topaz"    : "fbc118",
+	"ruby"     : "d00404",
+	"sapphire" : "043bd0",
+	"topaz"    : "fff900",
 
 	"osmium"   : "afc0ed",
 	"platinum" : "ffffff",
